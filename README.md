@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gayathri T! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4E9FDC&center=true&vCenter=true&width=600&height=50&lines=Data+Analyst+%7C+Data+Scientist+%7C+Web+Developer;Passionate+about+AI%2C+Analytics+%26+Web+Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=4E9FDC&center=true&vCenter=true&width=600&height=50&lines=Data+Analyst+%7C+Data+Scientist+%7C+Web+Developer;Passionate+about+AI%2C+Analytics+%26+Web+Development" />
 </p>
 
 <p align="center">
