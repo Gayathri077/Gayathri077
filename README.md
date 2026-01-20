@@ -1,92 +1,68 @@
-<h1 align="center">Hi, I'm Gayathri T! 👋</h1>
+<h1 align="center">Hi, I’m Gayathri T 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=4E9FDC&center=true&vCenter=true&width=600&height=50&lines=Data+Analyst+%7C+Data+Scientist+%7C+Web+Developer;Passionate+about+AI%2C+Analytics+%26+Web+Development" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Gayathri077?label=Followers&style=social" />
-  <img src="https://img.shields.io/badge/Data%20Science-Python-blue?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/Web%20Development-React-blue?style=flat&logo=react" />
+  <strong>Data Analyst | Data Analytics & Data Science Enthusiast</strong><br/>
+  Turning data into actionable business insights
 </p>
 
 ---
 
-## 🚀 About Me  
+## 🔍 About Me
 
-I'm a **Data Analyst, Data Scientist, and Web Developer** passionate about **Data Science, Generative AI, Data Analytics, and Front-end Development.**  
+I am an aspiring **Data Analyst** with hands-on experience in **data analysis, visualization, and exploratory data analysis**.  
+I enjoy working with real-world datasets to uncover patterns, answer business questions, and support data-driven decision-making.
 
-🔍 I love extracting insights from data using **Python, SQL, Power BI, Tableau**, and building AI-powered applications.  
-💡 I'm also skilled in creating **modern web apps** using **ReactJS, JavaScript, and full-stack technologies.**  
-
----
-
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pandas,numpy,sql,excel,tableau,powerbi,html,css,js,react,nodejs,mongodb,git,github" />
-</p>
+My primary focus is on **analytics, customer behavior analysis, and dashboarding**, using tools that are widely used in industry.
 
 ---
 
-## 💼 Work Experience  
+## 🛠️ Technical Skills
 
-- 💡 **Data Science & Generative AI Intern** at **Innomatics Research Lab**  
-- 📊 **Data Analyst Intern** at **Jeevi Soft**  
-- 🌐 **Web Development Intern** at **Prodigy Infotech**  
-
----
-
-## 🔥 Projects  
-
-📌 **E-commerce Website (MERN Stack)** – Developing a modern full-stack online store  
-📌 **Power BI Telecom Dashboard** – Analyzing customer satisfaction and performance metrics  
-📌 **Weather App** – A real-time weather application using JavaScript  
-📌 **Python Code AI Reviewer** – An AI-powered tool for reviewing Python code  
+- **Programming & Analysis:** Python, SQL  
+- **Data Analysis:** Pandas, NumPy, Excel  
+- **Data Visualization:** Power BI, Tableau  
+- **Databases:** MySQL  
+- **Core Skills:** Data Cleaning, EDA, KPI Analysis, Reporting
 
 ---
 
-## 🏆 Certifications  
+## 💼 Experience (Analytics-Focused)
 
-🎖️ **Python Certification** – Naan Mudhalvan & Pantech  
-🎖️ **Data Analytics & Visualization** – Accenture  
-🎖️ **Power BI Certification** – PwC  
-🎖️ **Data Analytics Essentials** – Cisco  
+**Data Science & Analytics Intern**  
+**Innomatics Research Labs**  
+- Worked on real-world datasets involving data cleaning, exploratory data analysis, and insight generation.  
+- Built analytical workflows using Python and SQL to solve business-driven problems.  
+- Created visual reports and dashboards to communicate insights clearly.
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gayathri077&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gayathri077&theme=tokyonight" height="180px"/>
-</p>
+**Data Analytics Intern**  
+**Besant Technologies**  
+- Gained hands-on experience in Excel, SQL, and data visualization tools.  
+- Performed data preprocessing and basic analytical reporting.  
+- Strengthened analytical thinking and understanding of business metrics.
 
 ---
 
-## 📫 Let's Connect  
+## 📊 Featured Project
 
-<p align="center">
-  <a href="mailto:gayu7173t@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gayu7173t@gmail.com-red?style=flat&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/gayathri77">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://github.com/Gayathri077">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" />
-  </a>
-</p>
+### 🛒 Retail Customer Analysis
 
----
+**Objective:**  
+Analyze retail transaction data to understand customer purchasing behavior and generate insights that can improve sales strategy and customer retention.
 
-### ✨ Fun Fact  
-> *Data is like magic – if you know how to use it, you can create amazing things!*  
+**What I Did:**
+- Cleaned and prepared raw retail data for analysis.  
+- Performed **Exploratory Data Analysis (EDA)** to identify trends and patterns.  
+- Segmented customers based on purchasing behavior and spending.  
+- Analyzed product performance and seasonal trends.  
+- Presented insights using structured visualizations and dashboards.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="400px" />
-</p>
+**Tools Used:**  
+Python, Pandas, NumPy, SQL, Excel, Power BI
 
 ---
 
-🌟 **Always eager to learn and collaborate on exciting projects!** 🚀
+## 📫 Contact
+
+- **Email:** gayu7173t@gmail.com  
+- **LinkedIn:** www.linkedin.com/in/gayathri77  
+- **GitHub:** https://github.com/Gayathri077
